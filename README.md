@@ -62,10 +62,12 @@ Check out my repos ⬇️
 
  🌮 🇲🇽 🤘🏽 <br/>
  
+ <p align="center">
  <img align="center" src="https://madewithlove.now.sh/mx?heart=true&colorA=%2315b300&colorB=%23ff0019&template=for-the-badge" alt="Made with love in Mexico">
-<p align="center">
-![Made with love in Mexico](https://madewithlove.now.sh/mx?heart=true&colorA=%2315b300&colorB=%23ff0019&template=for-the-badge) 
 </p>
+
+![Made with love in Mexico](https://madewithlove.now.sh/mx?heart=true&colorA=%2315b300&colorB=%23ff0019&template=for-the-badge) 
+
 
 <!--
 [<img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](###)
