@@ -29,11 +29,23 @@ I enjoy: <br/>
 📷 Taking photos <br/>
 🎥 Be on a set film <br/>
 🧠 Learning new things. <br/>
+<br/>
+
+
+- :school: I'm currently studing in ... Platzi Master Program.
+- 🔭 I’m currently working on ... Freelance
+- 🌱 I’m currently learning ... Js, React Js, Angular.
+- 👯 I’m looking to collaborate on ... Any of project
+- 🤔 I’m looking for help with ... Js 
+- 💬 Ask me about ... Design, The immortality of the crab, Star wars
+- 📫 How to reach me: ... 👆🏽👆🏽👆🏽
+<br/>
+<br/>
 
 
 
 <!--
-[<img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/vivek.chauhan.942145)
+[<img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](###)
 -->
 
 <!--
@@ -41,12 +53,5 @@ I enjoy: <br/>
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 -->
