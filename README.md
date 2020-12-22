@@ -42,6 +42,15 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ... Js 
 - 💬 Ask me about ... Design, The immortality of the crab, Star wars
 - 📫 How to reach me: ... 👆🏽👆🏽👆🏽
+
+<br/>
+
+<details>
+  <summary>:zap: Languages Used</summary>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RoiFuries&layout=compact&bg_color=ffffff&text_color=333333">
+</details>
+
+
 <br/>
 <br/>
 <p align="center">
