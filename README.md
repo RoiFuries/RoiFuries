@@ -13,7 +13,9 @@
 
 <br/>
 
-#### Designer | Frontend developer :robot:. (In progress)
+#### Designer | Frontend developer :robot:. (In progress...)
+
+I am a designer and front end developer who is passionate about  writing code, solving problems, automating things, creating software, and I am also passionate photography, film, and art. I am a student of Platzi Master program.
 
 
 
