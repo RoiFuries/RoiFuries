@@ -61,7 +61,7 @@ Check out my repos ⬇️
 <br/>
 
  🌮 🇲🇽 🤘🏽 <br/>
-![Made with love in Mexico](https://madewithlove.now.sh/mx?heart=true&colorA=%2315b300&colorB=%23ff0019&template=for-the-badge) 
+align="center"![Made with love in Mexico](https://madewithlove.now.sh/mx?heart=true&colorA=%2315b300&colorB=%23ff0019&template=for-the-badge) 
 
 
 <!--
