@@ -1,5 +1,5 @@
 <p>
-  ![Logo Intro (1)](https://user-images.githubusercontent.com/54724785/102901685-87f60400-4433-11eb-8947-6c77b69d0bf6.gif)
+  ![me]((https://user-images.githubusercontent.com/54724785/102901685-87f60400-4433-11eb-8947-6c77b69d0bf6.gif)
 </p>
 <br/>
 
@@ -81,6 +81,8 @@ Check out my repos ⬇️
 
 <!--
 **RoiFuries/RoiFuries** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+  <img src="https://raw.githubusercontent.com/Vivekagent47/Vivekagent47/master/hello.svg">
 
 Here are some ideas to get you started:
 
