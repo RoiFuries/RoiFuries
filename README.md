@@ -10,7 +10,7 @@
 [<img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge">](http://roifuries.com/)
 
 
-Designer | Frontend developer :robot:. (In progress)
+### Designer | Frontend developer :robot:. (In progress)
 
 
 ![](https://visitor-badge.glitch.me/badge?page_id=RoiFuries)
