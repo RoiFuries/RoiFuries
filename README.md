@@ -24,6 +24,15 @@ automating things, creating software, and I am also passionate photography, film
 <br/> **I am a student of Platzi Master program.** 🧠
 <br/>
 <br/>
+
+<br/>
+
+<details>
+  <summary>:zap: Languages Used</summary>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RoiFuries&layout=compact&bg_color=ffffff&text_color=333333">
+</details>
+
+<br/>
 ________________________________________
 
 ### I enjoy: <br/>
@@ -48,12 +57,7 @@ ________________________________________
 - 💬 Ask me about ... Design, The immortality of the crab, Star wars
 - 📫 How to reach me: ... 👆🏽👆🏽👆🏽
 
-<br/>
 
-<details>
-  <summary>:zap: Languages Used</summary>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RoiFuries&layout=compact&bg_color=ffffff&text_color=333333">
-</details>
 
 
 <br/>
@@ -69,6 +73,13 @@ Check out my repos ⬇️
  <p align="center">
    🌮 🇲🇽 🤘🏽 <br/>
  <img align="center" src="https://madewithlove.now.sh/mx?heart=true&colorA=%2315b300&colorB=%23ff0019&template=for-the-badge" alt="Made with love in Mexico">
+</p>
+
+<br/>
+
+<br/>
+<p align="center">
+Check out my repos ⬇️  
 </p>
 
 
