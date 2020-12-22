@@ -17,6 +17,18 @@
 I am a designer and front end developer who is passionate about  writing code, solving problems, <br/>
 automating things, creating software, and I am also passionate photography, film, and art.
 <br/> **I am a student of Platzi Master program.** 🧠
+<br/>
+<br/>
+________________________________________
+
+I enjoy: <br/>
+🛹 Longboarding <br/>
+🏊🏼 Swim <br/>
+🎮 Playing video games <br/>
+📚 Reading <br/>
+📷 Taking photos <br/>
+🎥 Be on a set film <br/>
+🧠 Learning new things. <br/>
 
 
 
