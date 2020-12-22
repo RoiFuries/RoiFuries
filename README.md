@@ -32,6 +32,9 @@ I enjoy: <br/>
 <br/>
 
 
+Here are some ideas to get you started:
+<br/>
+
 - :school: I'm currently studing in ... Platzi Master Program.
 - 🔭 I’m currently working on ... Freelance
 - 🌱 I’m currently learning ... Js, React Js, Angular.
@@ -41,6 +44,14 @@ I enjoy: <br/>
 - 📫 How to reach me: ... 👆🏽👆🏽👆🏽
 <br/>
 <br/>
+<p align="center">
+Check out my repos ⬇️  
+</p>
+
+<br/>
+<br/>
+![Made with love in India](https://madewithlove.now.sh/in?heart=true&template=for-the-badge)
+
 
 
 
