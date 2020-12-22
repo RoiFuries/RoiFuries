@@ -1,5 +1,10 @@
+  <img src="https://github.com/RoiFuries/Gif_profile/blob/main/Assets/Logo%20Intro%20(1).gif?raw=true">
+
 <p>
-![me](https://github.com/RoiFuries/Gif_profile/blob/main/Assets/Logo%20Intro%20(1).gif?raw=true)
+    <img src="https://github.com/RoiFuries/Gif_profile/blob/main/Assets/Logo%20Intro%20(1).gif?raw=true">
+
+
+ 
 </p>
 <br/>
 
