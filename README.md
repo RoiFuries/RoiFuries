@@ -1,9 +1,5 @@
-### Hi there 👋
-
 
 # Hi there, I'm Rodrigo 👽🖖🏽
-<br/>
-
 #### Designer | Frontend developer :robot:. (In progress...)
 
 
