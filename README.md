@@ -24,16 +24,13 @@ automating things, creating software, and I am also passionate photography, film
 <br/> **I am a student of Platzi Master program.** 🧠
 <br/>
 <br/>
-
-<br/>
-
 <details>
   <summary>:zap: Languages Used</summary>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RoiFuries&layout=compact&bg_color=ffffff&text_color=333333">
 </details>
 
 <br/>
-________________________________________
+___________________________________________________________________________________________________
 
 ### I enjoy: <br/>
 🛹 Longboarding <br/>
