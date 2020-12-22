@@ -64,7 +64,7 @@ Check out my repos ⬇️
  
  <img align="center" src="https://madewithlove.now.sh/mx?heart=true&colorA=%2315b300&colorB=%23ff0019&template=for-the-badge" alt="Made with love in Mexico">
 
-![Made with love in Mexico](https://madewithlove.now.sh/mx?heart=true&colorA=%2315b300&colorB=%23ff0019&template=for-the-badge) 
+!align="center"[Made with love in Mexico](https://madewithlove.now.sh/mx?heart=true&colorA=%2315b300&colorB=%23ff0019&template=for-the-badge) 
 
 
 <!--
