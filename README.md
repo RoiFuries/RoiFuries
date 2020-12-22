@@ -29,7 +29,7 @@ automating things, creating software, and I am also passionate photography, film
 <br/>
 ________________________________________
 
-###I enjoy: <br/>
+### I enjoy: <br/>
 🛹 Longboarding <br/>
 🏊🏼 Swim <br/>
 🎮 Playing video games <br/>
@@ -40,7 +40,7 @@ ________________________________________
 <br/>
 
 ________________________________________
-###Here are some ideas to get you started:
+### Here are some ideas to get you started:
 <br/>
 
 - :school: I'm currently studing in ... Platzi Master Program.
