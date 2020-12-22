@@ -1,3 +1,7 @@
+<p>
+  <img src="https://raw.githubusercontent.com/Vivekagent47/Vivekagent47/master/hello.svg">
+</p>
+<br/>
 
 # Hi there, I'm Rodrigo 👽🖖🏽
 ### Designer | Frontend developer :robot:. (In progress...)
