@@ -2,6 +2,10 @@
 
 
 # Hi there, I'm Rodrigo 👽🖖🏽
+<br/>
+
+#### Designer | Frontend developer :robot:. (In progress...)
+
 
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/RoiFuries)
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/roifuries/)
@@ -11,9 +15,7 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=RoiFuries)
 
-<br/>
 
-#### Designer | Frontend developer :robot:. (In progress...)
 
 I am a designer and front end developer who is passionate about  writing code, solving problems, automating things, creating software, and I am also passionate photography, film, and art. I am a student of Platzi Master program.
 
