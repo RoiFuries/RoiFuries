@@ -14,8 +14,10 @@
 <br/>
 
 
-I am a designer and front end developer who is passionate about  writing code, solving problems, automating things, creating software, and I am also passionate photography, film, and art. I am a student of Platzi Master program.
-
+I am a designer and front end developer who is passionate about  writing code, solving problems, <br/>
+automating things, creating software, and I am also passionate photography, 
+<br/>
+film, and art. | **I am a student of Platzi Master program.** 🧠
 
 
 
