@@ -25,12 +25,12 @@ automating things, creating software, and I am also passionate photography, film
 <br/>
 <br/>
 <details>
-  <summary>:zap: Languages Used</summary>
+  <summary>:zap: Languages Used (click) </summary>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RoiFuries&layout=compact&bg_color=ffffff&text_color=333333">
 </details>
 
 <br/>
-___________________________________________________________________________________________________
+________________________________________
 
 ### I enjoy: <br/>
 🛹 Longboarding <br/>
@@ -54,14 +54,6 @@ ________________________________________
 - 💬 Ask me about ... Design, The immortality of the crab, Star wars
 - 📫 How to reach me: ... 👆🏽👆🏽👆🏽
 
-
-
-
-<br/>
-<br/>
-<p align="center">
-Check out my repos ⬇️  
-</p>
 
 <br/>
 <br/>
