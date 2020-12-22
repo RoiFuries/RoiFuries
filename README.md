@@ -1,11 +1,4 @@
   <img src="https://github.com/RoiFuries/Gif_profile/blob/main/Assets/Logo%20Intro%20(1).gif?raw=true">
-
-<p>
-    <img src="https://github.com/RoiFuries/Gif_profile/blob/main/Assets/Logo%20Intro%20(1).gif?raw=true">
-
-
- 
-</p>
 <br/>
 
 # Hi there, I'm Rodrigo 👽🖖🏽
